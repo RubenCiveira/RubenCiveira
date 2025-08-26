@@ -282,4 +282,8 @@ Responsable de sistemas en fábrica de instalaciones solares térmicas.
 
 - **PMP® – Project Management Professional (PMI, 2022)**  
 - **Ingeniero en Informática – Univ. de Vigo (2007)**  
-  - Especialización en **IA y recuperación de información** (Lucene, Weka, Redes Bayesianas).  
+  - Especialización en **IA y recuperación de información** (Lucene, Weka, Redes Bayesianas).
+- **Activeloop – Machine Learning & Deep Learning** (2023)  
+  - [Ver certificado](https://learn.activeloop.ai/certificates/jnq79vt4b7)  
+- **EF SET – English Certificate C2 (Proficient)** (2023)  
+  - [Ver certificado](https://cert.efset.org/LPx4Yf)  
