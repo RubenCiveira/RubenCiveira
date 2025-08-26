@@ -201,14 +201,14 @@ Mis contribuciones principales:
 
 ### Experiencia adicional destacada  
 
-- **Plexus – Proyecto Alavuelta (2019–2020):** iniciativa de fidelización en TPVs; fracaso comercial pero fuente de aprendizajes aplicados al ITPV.  
+
+<details>
+  <summary>- **Plexus – Proyecto Alavuelta (2019–2020):** iniciativa de fidelización en TPVs; fracaso comercial pero fuente de aprendizajes aplicados al ITPV.  
 - **Optare – Mas Neba (2018):** modernización de portabilidades de telefonía (SOAP → REST con colas EMule).  
 - **Tecnocom (2013–2018):** varios proyectos en Abanca (portales SPA+REST, MDM TPVs, atención cliente y B2B).  
 - **Universidad de Vigo – Tenestilo (2012):** proyecto IA aplicada a moda, con PLN y motores de reglas.  
 - **Productos de Energías Naturales (2007–2011):** responsable de informática en fábrica solar; desarrollo de ERP web y mantenimiento de sistemas industriales.  
-
-<details>
-  <summary>Más detalle</summary>
+</summary>
 
 #### Plexus – Proyecto Alavuelta (2019–2020)  
 **Jefe de Proyecto – Líder Técnico**  
