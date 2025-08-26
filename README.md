@@ -1,5 +1,5 @@
 # Ruben CIVEIRA IGLESIAS  
-[LinkedIn](https://www.linkedin.com/in/rubenciveiraiglesias/) | rubenciveira@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/rubenciveiraiglesias/) 
 
 **Líder Técnico & Jefe de Proyectos | PMP® | Arquitecto de Soluciones | Transformación de negocio a través de la tecnología**  
 
