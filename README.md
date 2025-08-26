@@ -1,4 +1,4 @@
-# Ruben CIVEIRA IGLESIAS  
+# Rubén Civeira Iglesias
 [LinkedIn](https://www.linkedin.com/in/rubenciveiraiglesias/) 
 
 **Líder Técnico & Jefe de Proyectos | PMP® | Arquitecto de Soluciones | Transformación de negocio a través de la tecnología**  
@@ -26,7 +26,7 @@ Mi misión es **conectar la tecnología con la estrategia empresarial**, generan
 Migración a un portal global API First sobre microservicios en OpenShift.  
 - Reduje el equipo backend de 5 a 2 desarrolladores, aumentando productividad.  
 - Aceleré la integración de datos de 15 a 10 meses, habilitando accesos antes de lo previsto.  
-- Estabilicé calidad con apenas un bug cada dos meses.
+- Estabilicé calidad con una tasa de errores infima.
 
 <details>
   <summary>Más detalle</summary>
