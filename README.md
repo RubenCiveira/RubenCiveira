@@ -26,8 +26,18 @@ Mi misión es **conectar la tecnología con la estrategia empresarial**, generan
 Migración a un portal global API First sobre microservicios en OpenShift.  
 - Reduje el equipo backend de 5 a 2 desarrolladores, aumentando productividad.  
 - Aceleré la integración de datos de 15 a 10 meses, habilitando accesos antes de lo previsto.  
-- Estabilicé calidad con apenas un bug cada dos meses.  
-**Tecnologías:** Microservicios, Spring Boot, OpenShift, Sonar, Jira.  
+- Estabilicé calidad con apenas un bug cada dos meses.
+
+<details>
+  <summary>Más detalle</summary>
+
+Proyecto de transformación digital para una entidad bancaria internacional, migrando su portal de clientes a un enfoque **API First basado en microservicios sobre OpenShift**.  
+Lideré el modelado de dominios, la supervisión de despliegues en un equipo multidisciplinar y la auditoría de eventos para garantizar trazabilidad y calidad del servicio.  
+
+**Tecnologías:** Arquitectura de software, Microservicios, Spring Boot, Sonar, OpenShift, Jira, Confluence.  
+
+</details>
+
 
 ### Plexus – Sistema de cita previa Sanitas  
 **Jefe de Proyecto – Analista | Nov 2022 – Oct 2023**  
